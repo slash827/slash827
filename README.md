@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gilad Battat
+- 👋 Hi, my name is Gilad Battat
 - 👀 I’m interested in Software Development and Machine Learning
 - 🌱 I’m currently learning Backend Development with Django in Python
 - 💞️ I’m looking to collaborate on Django projects or data oriented projects with python
