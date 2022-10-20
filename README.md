@@ -5,9 +5,14 @@
 - 📫 How to reach me - send an email gilad.battat@gmail.com
 
 <h2><b><i>Certifications:</b></i></h2> </br>
-  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a> – freeCodeCamp.</b> </br>
-  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/data-analysis-with-python-v7">Data Analysis with Python</a> – freeCodeCamp.</b> </br>
-  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a> – freeCodeCamp.</b>
+<h3><b><i>freeCodeCamp:</b></i></h3> </br>
+  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a></b> </br>
+  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/data-analysis-with-python-v7">Data Analysis with Python</a></b> </br>
+  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a></b> </br>
+  
+ <h3><b><i>Udemy:</b></i></h3> </br>
+  <b><a href="https://drive.google.com/file/d/1aaK6TMnJcMMOO5pqYYi7XNIzwZbBV5Jl/view?usp=sharing">Automate the Boring Stuff with Python Programming</a></b> </br>
+  <b><a href="https://drive.google.com/file/d/1-tRrPlZmRR6QoDLvQbFvZoEYZkmhsco4/view?usp=sharing">Practical Machine Learning by Example in Python</a></b> </br>
 
 <!---
 slash827/slash827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
