@@ -5,9 +5,12 @@
 - 📫 How to reach me - send an email gilad.battat@gmail.com or send a message in <a href="http://www.linkedin.com/in/giladbattat">Linkedin</a>
 
 <h2><b><i>Projects:</b></i></h2>
+
 <h3><b><i><a href="https://github.com/slash827/Messenger">Messenger</a>:</b></i></h3> </br>
+  <b>Messenger - Client Server application with Python and C++</b> </br>
 
 <h2><b><i>Certifications:</b></i></h2>
+
 <h3><b><i>freeCodeCamp:</b></i></h3> </br>
   <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a></b> </br>
   <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/data-analysis-with-python-v7">Data Analysis with Python</a></b> </br>
