@@ -26,6 +26,7 @@
 
 <h2><b><i>Technology Stack:</b></i></h2>
 <h3><b><i>Python:</b></i></h3>
+Advanced Python knowledge including OOP and libraries like: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, Django
 
 <h2><b><i>Certifications:</b></i></h2>
 
