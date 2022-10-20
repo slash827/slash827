@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Django projects or data oriented projects with Python.
 - 📫 How to reach me - send an email gilad.battat@gmail.com or send a message in <a href="http://www.linkedin.com/in/giladbattat">Linkedin</a>
 
+<h2><b><i>Projects:</b></i></h2>
+<h3><b><i>Messenger:</b></i></h3> </br>
+
 <h2><b><i>Certifications:</b></i></h2>
 <h3><b><i>freeCodeCamp:</b></i></h3> </br>
   <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a></b> </br>
