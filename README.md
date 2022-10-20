@@ -12,10 +12,12 @@
 <h2><b><i>Certifications:</b></i></h2>
 
 <h3><b><i>freeCodeCamp:</b></i></h3> </br>
-  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a></b> </br>
-  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/data-analysis-with-python-v7">Data Analysis with Python</a></b> </br>
-  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a></b> </br>
-  
+<ul>
+  <li><b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a></b> </br></li>  
+  <li>  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/data-analysis-with-python-v7">Data Analysis with Python</a></b> </br></li>  
+  <li>  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a></b> </br>
+</li>  
+</ul>  
  <h3><b><i>Udemy:</b></i></h3> </br>
   <b><a href="https://drive.google.com/file/d/1aaK6TMnJcMMOO5pqYYi7XNIzwZbBV5Jl/view?usp=sharing">Automate the Boring Stuff with Python Programming</a></b> </br>
   <b><a href="https://drive.google.com/file/d/1-tRrPlZmRR6QoDLvQbFvZoEYZkmhsco4/view?usp=sharing">Practical Machine Learning by Example in Python</a></b> </br>
