@@ -18,6 +18,7 @@
 
 <h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a>:</b></i></h3>
   <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
+  <p>The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.</p>
 
 <h2><b><i>Certifications:</b></i></h2>
 
