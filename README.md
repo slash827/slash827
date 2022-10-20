@@ -30,7 +30,8 @@ Advanced Python including OOP, Meta Programming and Excepion Handelling. </br>
 libraries like: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, Django
 <h3><b><i>Java:</b></i></h3>
 OOP, Java Collections and Generic types, Threads and Excepion Handelling. </br>
-<h3><b><i>HTML CSS and JavaScript - currently studying</b></i></h3>
+<h3><b><i>HTML CSS and JavaScript:</b></i></h3>
+basic tags, styles and JS operations - currently learning in self-pace.
 
 <h2><b><i>Certifications:</b></i></h2>
 
