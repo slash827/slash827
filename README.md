@@ -54,8 +54,8 @@
 <h4>&emsp;Studying Computer Science with thesis in AI at Bar-Ilan University.</h4>
 <h4>&emsp;Courses that I took:</h4>
 <ul>
-  <li>&emsp;Image Processing</li>
-  <li>&emsp;</li>
+  &emsp;<li>Image Processing</li>
+  &emsp;<li></li>
 </ul>
 
 <h2><b><i>Additional Websites:</b></i></h2>
