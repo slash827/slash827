@@ -16,6 +16,9 @@
   <b>Extension to MetaOD software -  an Outlier Detection automation tool.</b> </br>
 &emsp;Anomaly Detection automation tool, used to help with the model-selection problem in case of Anomaly detection Machine Learning models, and automating the process. </br> 
 
+<h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a>:</b></i></h3>
+  <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
+
 <h2><b><i>Certifications:</b></i></h2>
 
 <h3><b><i>freeCodeCamp:</b></i></h3> </br>
