@@ -55,8 +55,8 @@
 </ul>
 
 <h3><b><i>Master Degree:</b></i></h3>
-<h4>&emsp;Studying Computer Science with thesis in AI at Bar-Ilan University.</h4>
-<h4>&emsp;Courses that I took:</h4>
+<h4>Studying Computer Science with thesis in AI at Bar-Ilan University.</h4>
+<h4>Relevant Courses that I took:</h4>
 <ul>
   <li>Image Processing</li>
   <li>Machine Learning</li>
