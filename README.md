@@ -5,8 +5,8 @@
 - 📫 How to reach me - send an email gilad.battat@gmail.com
 
 <b><i>Certifications:</b></i> </br>
-  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python – freeCodeCamp.</a></b>
-  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/data-analysis-with-python-v7">Data Analysis with Python – freeCodeCamp.</a></b>
+  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a> – freeCodeCamp.</b> </br>
+  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/data-analysis-with-python-v7">Data Analysis with Python</a> – freeCodeCamp.</b> </br>
   <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python – freeCodeCamp.</a></b>
 
 <!---
