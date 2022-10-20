@@ -42,7 +42,7 @@
 </ul>
 
 <h2><b><i>Academic Background:</b></i></h2>
-<h3><b><i>Bachelor Degree:</b></i></h3> </br>
+<h3><b><i>Bachelor Degree:</b></i></h3>
 &emsp;<h4>Computer Science from The Open University of Israel, GPA <b>90</b>.</h4>
 
 <!---
