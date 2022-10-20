@@ -18,13 +18,12 @@
 
 <h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a>:</b></i></h3>
   <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
-  &emsp;<p>The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.</p>
+  &emsp;The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.
 
 <h3><b><i><a href="https://github.com/slash827/Computational-Biology/tree/main/Genetic-Algorithm-The-Game-Of-Life">Genetic Algorithm With The Game Of Life</a>:</b></i></h3>
   <b>Using genetic algorithms to explore the game of life.</b> </br> 
-  &emsp;<p>This project was built with python and implements a genetic algorithm that finds patterns in the game of life that are called methuselahs.
-This project was a final project in a course about Computational Biology.</p>
-
+  &emsp;This project was built with python and implements a genetic algorithm that finds patterns in the game of life that are called methuselahs.
+This project was a final project in a course about Computational Biology.
 
 <h2><b><i>Certifications:</b></i></h2>
 
