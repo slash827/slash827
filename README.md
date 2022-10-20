@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Django projects or data oriented projects with Python.
 - 📫 How to reach me - send an email gilad.battat@gmail.com or send a message in <a href="http://www.linkedin.com/in/giladbattat">Linkedin</a>.
 
+<div>
 <h2><b><i>Projects:</b></i></h2>
 
 <h3><b><i><a href="https://github.com/slash827/Messenger">Messenger</a>:</b></i></h3>
@@ -23,6 +24,7 @@
 <h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a>:</b></i></h3>
   <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
   &emsp;The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.
+</div>
 
 <h2><b><i>Technology Stack:</b></i></h2>
 <h3><b><i>Python:</b></i></h3>
