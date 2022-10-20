@@ -43,7 +43,8 @@
 
 <h2><b><i>Academic Background:</b></i></h2>
 <h3><b><i>Bachelor Degree:</b></i></h3>
-<h4>&emsp;Computer Science from The Open University of Israel, GPA <b>90</b>.</h4> </br>
+<h4>&emsp;Computer Science from The Open University of Israel, GPA <b>90</b>.</h4>
+
 <h3><b><i>Master Degree:</b></i></h3>
 <h4>&emsp;Studying Computer Science with thesis in AI at Bar-Ilan University.</h4>
 
