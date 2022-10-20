@@ -12,7 +12,7 @@
 &emsp;The <b>client side</b> is written in <b>C++</b> and has a Command line interface. </br> 
 &emsp;The <b>server side</b> is written in <b>Python</b> and uses socket for network communication. </br> 
 
-<h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a>:</b></i></h3> </br>
+<h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a>:</b></i></h3>
   <b>Extension to MetaOD software -  an Outlier Detection automation tool.</b> </br>
 &emsp;Anomaly Detection automation tool, used to help with the model-selection problem in case of Anomaly detection Machine Learning models, &emsp;and automating the process. </br> 
 
