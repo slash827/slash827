@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Gilad Battat.
+- 👋 Hi, my name is Gilad Battat and I'm a M.Sc student in CS and a software developer intern.
 - 👀 I’m interested in Software Development and Machine Learning.
-- 🌱 I’m currently learning Backend Development with Django in Python and also HTML, CSS and JS.
+- 🌱 I’m currently learning Backend Development with Django in Python and HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on Django projects or data oriented projects with Python.
 - 📫 How to reach me - send an email gilad.battat@gmail.com or send a message in <a href="http://www.linkedin.com/in/giladbattat">Linkedin</a>.
 
@@ -23,6 +23,9 @@
 <h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a>:</b></i></h3>
   <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
   &emsp;The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.
+
+<h2><b><i>Technology Stack:</b></i></h2>
+<h3><b><i>Python:</b></i></h3>
 
 <h2><b><i>Certifications:</b></i></h2>
 
