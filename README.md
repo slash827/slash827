@@ -44,13 +44,13 @@
 <h2><b><i>Academic Background:</b></i></h2>
 <h3><b><i>Bachelor Degree:</b></i></h3>
 <h4>&emsp;Computer Science from The Open University of Israel, GPA <b>90</b>.</h4>
-<h4>&emsp;Courses that I took:</h4>
+<h4>&emsp;Relevant Courses that I took:</h4>
 <ul>
   <li>Data Structures and Algorithms</li>
   <li>Database Managment Systems - with PostgreSQL</li>
-  <li>System Programming - with C language</li>
-  <li></li>
-  <li></li>
+  <li>Computational Biology</li>
+  <li>Intro to Artificial Intelligence</li>
+  <li>Seminar in Cybersecurity with Machine Learning</li>
   <li>Defensive Programming</li>
 </ul>
 
@@ -59,13 +59,14 @@
 <h4>&emsp;Courses that I took:</h4>
 <ul>
   <li>Image Processing</li>
-  <li></li>
+  <li>Machine Learning</li>
+  <li>Tabular Data Science</li>
+  <li>Data Science Workshop</li>
 </ul>
 
 <h2><b><i>Additional Websites:</b></i></h2>
 <h3><b><i><a href= "https://leetcode.com/slash827/">LeetCode</a> - more than 85 coding challenges solved.</b></i></h3>
 <h3><b><i><a href= "http://www.codewars.com/users/giladbattat">CodeWars</a> - more than 110 coding challenges solved.</b></i></h3>
-
 <h3><b><i><a href= "https://www.kaggle.com/giladbattat">Kaggle</a></b></i></h3>
 <h3><b><i><a href="http://www.linkedin.com/in/giladbattat">Linkedin</a></b></i></h3>
 
