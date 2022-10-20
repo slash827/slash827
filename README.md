@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Django projects or data oriented projects with python
 - 📫 How to reach me - send an email gilad.battat@gmail.com
 
-Certifications:
+<b><i>Certifications:</b></i> </br>
   <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python – freeCodeCamp.</a></b>
 
 <!---
