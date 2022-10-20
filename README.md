@@ -21,7 +21,7 @@
   <b>Extension to MetaOD software -  an Outlier Detection automation tool.</b> </br>
 &emsp;Anomaly Detection automation tool, used to help with the model-selection problem in case of Anomaly detection Machine Learning models, and automating the process. </br> 
 
-<h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a>:</b></i></h3>
+<h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a></b></i></h3>
   <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
   &emsp;The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.
 </div>
