@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Gilad Battat
+- 👋 Hi, my name is Gilad Battat.
 - 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning Backend Development with Django in Python and also HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on Django projects or data oriented projects with Python.
-- 📫 How to reach me - send an email gilad.battat@gmail.com or send a message in <a href="http://www.linkedin.com/in/giladbattat">Linkedin</a>
+- 📫 How to reach me - send an email gilad.battat@gmail.com or send a message in <a href="http://www.linkedin.com/in/giladbattat">Linkedin</a>.
 
 <h2><b><i>Projects:</b></i></h2>
 
