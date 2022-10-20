@@ -12,6 +12,10 @@
 &emsp;The <b>client side</b> is written in <b>C++</b> and has a Command line interface. </br> 
 &emsp;The <b>server side</b> is written in <b>Python</b> and uses socket for network communication. </br> 
 
+<h3><b><i><a href="https://github.com/slash827/Computational-Biology/tree/main/Genetic-Algorithm-The-Game-Of-Life">Genetic Algorithm With The Game Of Life</a>:</b></i></h3>
+  <b>Using genetic algorithms to explore the game of life.</b> </br> 
+  &emsp;This project was built with python and implements a genetic algorithm that finds patterns in the game of life that are called methuselahs. &emsp;This project was a final project in a course about Computational Biology.
+
 <h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a>:</b></i></h3>
   <b>Extension to MetaOD software -  an Outlier Detection automation tool.</b> </br>
 &emsp;Anomaly Detection automation tool, used to help with the model-selection problem in case of Anomaly detection Machine Learning models, and automating the process. </br> 
@@ -19,10 +23,6 @@
 <h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a>:</b></i></h3>
   <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
   &emsp;The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.
-
-<h3><b><i><a href="https://github.com/slash827/Computational-Biology/tree/main/Genetic-Algorithm-The-Game-Of-Life">Genetic Algorithm With The Game Of Life</a>:</b></i></h3>
-  <b>Using genetic algorithms to explore the game of life.</b> </br> 
-  &emsp;This project was built with python and implements a genetic algorithm that finds patterns in the game of life that are called methuselahs. &emsp;This project was a final project in a course about Computational Biology.
 
 <h2><b><i>Certifications:</b></i></h2>
 
