@@ -46,21 +46,21 @@
 <h4>&emsp;Computer Science from The Open University of Israel, GPA <b>90</b>.</h4>
 <h4>&emsp;Courses that I took:</h4>
 <ul>
-  <li></li>
-  <li>Defensive Programming</li>
+  <li>&emsp;</li>
+  <li>&emsp;Defensive Programming</li>
 </ul>
 
 <h3><b><i>Master Degree:</b></i></h3>
 <h4>&emsp;Studying Computer Science with thesis in AI at Bar-Ilan University.</h4>
 <h4>&emsp;Courses that I took:</h4>
 <ul>
-  <li>Image Processing</li>
-  <li></li>
+  <li>&emsp;Image Processing</li>
+  <li>&emsp;</li>
 </ul>
 
 <h2><b><i>Additional Websites:</b></i></h2>
-<h3><b><i><a href= "https://leetcode.com/slash827/"></a>LeetCode - a website with various coding challenges.</b></i></h3>
-<h3><b><i><a href= "http://www.codewars.com/users/giladbattat"></a>CodeWars - a website with various coding challenges.</b></i></h3>
+<h3><b><i><a href= "https://leetcode.com/slash827/">LeetCode</a> - a website with various coding challenges.</b></i></h3>
+<h3><b><i><a href= "http://www.codewars.com/users/giladbattat">CodeWars</a> - a website with various coding challenges.</b></i></h3>
 
 <!---
 slash827/slash827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
