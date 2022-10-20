@@ -41,6 +41,10 @@
 </li>
 </ul>
 
+<h2><b><i>Academic Background:</b></i></h2>
+<h3><b><i>Bachelor Degree:</b></i></h3> </br>
+&emsp;<h4>Computer Science from The Open University of Israel, GPA <b>90</b>.</h4>
+
 <!---
 slash827/slash827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
