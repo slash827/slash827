@@ -64,8 +64,8 @@
 
 <h2><b><i>Additional Websites:</b></i></h2>
 <h3><b><i><a href= "https://leetcode.com/slash827/">LeetCode</a> - more than 85 coding challenges solved.</b></i></h3>
-<h3><b><i><a href= "http://www.codewars.com/users/giladbattat">CodeWars</a> - more than 110 coding challenges solved.</b></i></h3>
-<h3><b><i><a href= "https://www.kaggle.com/giladbattat">Kaggle</a> - an online community of data scientists and machine learning.</b></i></h3>
+<h3><b><i><a href= "http://www.codewars.com/users/giladbattat">CodeWars</a> - more than 110 coding challenges solved.</b></i></h3> </br>
+<h3><b><i><a href= "https://www.kaggle.com/giladbattat">Kaggle</a></b></i></h3>
 <h3><b><i><a href="http://www.linkedin.com/in/giladbattat">Linkedin</a></b></i></h3>
 
 <!---
