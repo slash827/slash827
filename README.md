@@ -43,8 +43,8 @@
 
 <h2><b><i>Academic Background:</b></i></h2>
 <h3><b><i>Bachelor Degree:</b></i></h3>
-<h4>&emsp;Computer Science from The Open University of Israel, GPA <b>90</b>.</h4>
-<h4>&emsp;Relevant Courses that I took:</h4>
+<h4>Computer Science from The Open University of Israel, GPA <b>90</b>.</h4>
+<h4>Relevant Courses that I took:</h4>
 <ul>
   <li>Data Structures and Algorithms</li>
   <li>Database Managment Systems - with PostgreSQL</li>
