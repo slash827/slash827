@@ -7,7 +7,7 @@
 <h2><b><i>Certifications:</b></i></h2> </br>
   <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a> – freeCodeCamp.</b> </br>
   <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/data-analysis-with-python-v7">Data Analysis with Python</a> – freeCodeCamp.</b> </br>
-  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a> – freeCodeCamp.</b>
+  <b><a href="https://www.freecodecamp.org/certification/fcccda59c64/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a> – freeCodeCamp.</b>
 
 <!---
 slash827/slash827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
