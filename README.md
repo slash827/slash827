@@ -8,9 +8,9 @@
 
 <h3><b><i><a href="https://github.com/slash827/Messenger">Messenger</a>:</b></i></h3> </br>
   <b>Messenger - Client Server application with Python and C++</b> </br>
-  This project contains a client software that is used to send encrypted messages between clients on different computers using a model of client-server. </br> 
-The **client side** is written in **C++** and has a Command line interface. </br> 
-The **server side** is written in **Python** and uses socket for network communication. </br> 
+This project contains a client software that is used to send encrypted messages between clients on different computers using a model of client-server. </br> 
+The <b>client side</b> is written in <b>C++</b> and has a Command line interface. </br> 
+The <b>server side</b> is written in <b>Python</b> and uses socket for network communication. </br> 
 
 <h2><b><i>Certifications:</b></i></h2>
 
