@@ -5,7 +5,7 @@
 - 📫 How to reach me - send an email gilad.battat@gmail.com or send a message in <a href="http://www.linkedin.com/in/giladbattat">Linkedin</a>.
 
 <div>
-<h2><b><i>Projects:</b></i></h2>
+<h2><b><i>Projects</b></i></h2>
 
 <h3><b><i><a href="https://github.com/slash827/Messenger">Messenger</a>:</b></i></h3>
   <b>Messenger App - Client Server application with Python and C++</b> </br>
@@ -17,7 +17,7 @@
   <b>Using genetic algorithms to explore the game of life.</b> </br> 
   &emsp;This project was built with python and implements a genetic algorithm that finds patterns in the game of life that are called methuselahs. &emsp;This project was a final project in a course about Computational Biology.
 
-<h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a>:</b></i></h3>
+<h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a></b></i></h3>
   <b>Extension to MetaOD software -  an Outlier Detection automation tool.</b> </br>
 &emsp;Anomaly Detection automation tool, used to help with the model-selection problem in case of Anomaly detection Machine Learning models, and automating the process. </br> 
 
@@ -26,25 +26,25 @@
   &emsp;The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.
 </div>
 
-<h2><b><i>Technology Stack:</b></i></h2>
-<h3><b><i>Python:</b></i></h3>
+<h2><b><i>Technology Stack</b></i></h2>
+<h3><b><i>Python</b></i></h3>
 Advanced Python including OOP, Meta Programming and Excepion Handelling. </br>
 libraries like: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, Django
-<h3><b><i>Java:</b></i></h3>
+<h3><b><i>Java</b></i></h3>
 OOP, Java Collections and Generic types, Threads and Excepion Handelling. </br>
-<h3><b><i>HTML CSS and JavaScript:</b></i></h3>
+<h3><b><i>HTML CSS and JavaScript</b></i></h3>
 basic tags, styles and JS operations - currently learning in self-pace.
 
-<h2><b><i>Certifications:</b></i></h2>
+<h2><b><i>Certifications</b></i></h2>
 
-<h3><b><i>freeCodeCamp:</b></i></h3> </br>
+<h3><b><i>freeCodeCamp</b></i></h3> </br>
 <ul>
   <li><b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a></b> </br></li>  
   <li><b><a href="https://www.freecodecamp.org/certification/fcccda59c64/data-analysis-with-python-v7">Data Analysis with Python</a></b> </br></li>  
   <li><b><a href="https://www.freecodecamp.org/certification/fcccda59c64/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a></b> </br></li>  
 </ul>  
 
-<h3><b><i>Udemy:</b></i></h3> </br>
+<h3><b><i>Udemy</b></i></h3> </br>
 <ul>
   <li><b><a href="https://drive.google.com/file/d/1aaK6TMnJcMMOO5pqYYi7XNIzwZbBV5Jl/view?usp=sharing">Automate the Boring Stuff with Python Programming</a></b> </br>
 </li>
@@ -52,10 +52,10 @@ basic tags, styles and JS operations - currently learning in self-pace.
 </li>
 </ul>
 
-<h2><b><i>Academic Background:</b></i></h2>
-<h3><b><i>Bachelor Degree:</b></i></h3>
+<h2><b><i>Academic Background</b></i></h2>
+<h3><b><i>Bachelor Degree</b></i></h3>
 <h4>Computer Science from The Open University of Israel, GPA <b>90</b>.</h4>
-<h4>Relevant Courses that I took:</h4>
+<h4>Relevant Courses that I took</h4>
 <ul>
   <li>Data Structures and Algorithms</li>
   <li>Database Managment Systems - with PostgreSQL</li>
@@ -65,9 +65,9 @@ basic tags, styles and JS operations - currently learning in self-pace.
   <li>Defensive Programming</li>
 </ul>
 
-<h3><b><i>Master Degree:</b></i></h3>
+<h3><b><i>Master Degree</b></i></h3>
 <h4>Studying Computer Science with thesis in AI at Bar-Ilan University.</h4>
-<h4>Relevant Courses that I took:</h4>
+<h4>Relevant Courses that I took</h4>
 <ul>
   <li>Image Processing</li>
   <li>Machine Learning</li>
@@ -75,7 +75,7 @@ basic tags, styles and JS operations - currently learning in self-pace.
   <li>Data Science Workshop</li>
 </ul>
 
-<h2><b><i>Additional Websites:</b></i></h2>
+<h2><b><i>Additional Websites</b></i></h2>
 <h3><b><i><a href= "https://leetcode.com/slash827/">LeetCode</a> - more than 85 coding challenges solved.</b></i></h3>
 <h3><b><i><a href= "http://www.codewars.com/users/giladbattat">CodeWars</a> - more than 110 coding challenges solved.</b></i></h3>
 <h3><b><i><a href= "https://www.kaggle.com/giladbattat">Kaggle</a></b></i></h3>
