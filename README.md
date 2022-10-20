@@ -12,6 +12,10 @@
 &emsp;The <b>client side</b> is written in <b>C++</b> and has a Command line interface. </br> 
 &emsp;The <b>server side</b> is written in <b>Python</b> and uses socket for network communication. </br> 
 
+<h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a>:</b></i></h3> </br>
+  <b>Extension to MetaOD - Anomaly Detection automation tool, used to help with the model-selection problem, and automating it.</b> </br>
+&emsp;A client software that sends encrypted messages between clients on different computers using a model of client-server. </br> 
+
 <h2><b><i>Certifications:</b></i></h2>
 
 <h3><b><i>freeCodeCamp:</b></i></h3> </br>
