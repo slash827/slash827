@@ -5,7 +5,9 @@
 - 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning Backend Development with Django in Python and HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on Django projects or data oriented projects with Python.
-- 📫 How to reach me - send an email gilad.battat@gmail.com or send a message in <a href="http://www.linkedin.com/in/giladbattat">Linkedin</a>.
+- 📫 How to reach me - send an <a href="gilad.battat@gmail.com">Email</a> or send a message in <a href="https://www.linkedin.com/in/giladbattat" rel="nofollow noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png" alt="linkedin">LinkedIn
+</a>.
 
 <div>
 <h2><b><i>Projects</b></i></h2>
@@ -85,11 +87,11 @@ Basic tags, styles and JS operations - currently learning in self-pace.
 </a> - more than 85 coding challenges solved.</b></i></h3>
 
 <h3><b><i><a href="http://www.codewars.com/users/giladbattat" rel="nofollow noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2622/PNG/32/brand_codewars_icon_158954.png" alt="leetcode"> CodeWars
+    <img src="https://cdn.icon-icons.com/icons2/2622/PNG/32/brand_codewars_icon_158954.png" alt="CodeWars"> CodeWars
 </a> - more than 110 coding challenges solved.</b></i></h3>
 
 <h3><b><i><a href="https://www.kaggle.com/giladbattat" rel="nofollow noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/32/kaggle_logo_icon_168473.png" alt="linkedin"> Kaggle
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/32/kaggle_logo_icon_168473.png" alt="Kaggle"> Kaggle
 </a></b></i></h3>
 
 <h3><b><i><a href="https://www.linkedin.com/in/giladbattat" rel="nofollow noreferrer">
