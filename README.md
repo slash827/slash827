@@ -31,10 +31,12 @@ The <b>server side</b> is written in <b>Python</b> and uses socket for network c
 
 <h2><b><i>Technology Stack</b></i></h2>
 <h3><b><i>Python</b></i></h3>
-Advanced Python including OOP, Meta Programming and Excepion Handelling. </br>
+Advanced Python including OOP, Meta Programming, Network and Socket programming and Excepion Handelling. </br>
 Libraries like: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, Django.
 <h3><b><i>Java</b></i></h3>
 OOP, Java Collections and Generic types, Threads and Excepion Handelling. </br>
+<h3><b><i>C++</b></i></h3>
+OOP, Network and Socket programming. </br>
 <h3><b><i>HTML CSS and JavaScript</b></i></h3>
 Basic tags, Styles and JavaScript operations - currently learning in self-pace.
 
