@@ -22,7 +22,7 @@
 
 <h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a></b></i></h3>
   <b>Extension to MetaOD software -  an Outlier Detection automation tool.</b> </br>
-&emsp;<p>Anomaly Detection automation tool, used to help with the model-selection problem in case of Anomaly detection Machine Learning models, and automating the process.</p> </br> 
+&emsp;<p>Anomaly Detection automation tool, used to help with the model-selection problem in case of Anomaly detection Machine Learning models, and automating the process.</p> 
 
 <h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a></b></i></h3>
   <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
