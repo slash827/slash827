@@ -83,6 +83,10 @@ Basic tags, styles and JS operations - currently learning in self-pace.
 <h3><b><i><a href= "http://www.codewars.com/users/giladbattat">CodeWars</a> - more than 110 coding challenges solved.</b></i></h3>
 <h3><b><i><a href= "https://www.kaggle.com/giladbattat">Kaggle</a></b></i></h3>
 
+<h3><b><i><a href="https://leetcode.com/slash827/" rel="nofollow noreferrer">
+    <img src="[https://i.stack.imgur.com/gVE0j.png](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)" alt="leetcode"> LeetCode - more than 85 coding challenges solved.
+</a></b></i></h3>
+
 <h3><b><i><a href="https://www.linkedin.com/in/giladbattat" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a></b></i></h3>
