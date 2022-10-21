@@ -18,7 +18,7 @@
 
 <h3><b><i><a href="https://github.com/slash827/Computational-Biology/tree/main/Genetic-Algorithm-The-Game-Of-Life">Genetic Algorithm With The Game Of Life</a></b></i></h3>
   <b>Using genetic algorithms to explore the game of life.</b> </br> 
-  &emsp;This project was built with python and implements a genetic algorithm that finds patterns in the game of life that are called methuselahs. &emsp;This project was a final project in a course about Computational Biology.
+  &emsp;<p>This project was built with python and implements a genetic algorithm that finds patterns in the game of life that are called methuselahs. &emsp;This project was a final project in a course about Computational Biology.</p>
 
 <h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a></b></i></h3>
   <b>Extension to MetaOD software -  an Outlier Detection automation tool.</b> </br>
