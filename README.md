@@ -5,9 +5,7 @@
 - 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning Backend Development with Django in Python and HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on Django projects or data oriented projects with Python.
-- 📫 How to reach me - send an <a href="gilad.battat@gmail.com">Email</a> or send a message in <a href="https://www.linkedin.com/in/giladbattat" rel="nofollow noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png" alt="linkedin">LinkedIn
-</a>.
+- 📫 How to reach me - send an <a href="gilad.battat@gmail.com">Email</a> or send a message in <a href="https://www.linkedin.com/in/giladbattat">LinkedIn</a>.
 
 <div>
 <h2><b><i>Projects</b></i></h2>
