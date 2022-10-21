@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Django projects or data oriented projects with Python.
 - 📫 How to reach me - send an email gilad.battat@gmail.com or send a message in <a href="http://www.linkedin.com/in/giladbattat">Linkedin</a>.
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div>
 <h2><b><i>Projects</b></i></h2>
 
