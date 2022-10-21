@@ -1,10 +1,12 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 - 👋 Hi, my name is Gilad Battat and I'm a M.Sc student in CS and a software developer intern.
 - 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning Backend Development with Django in Python and HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on Django projects or data oriented projects with Python.
 - 📫 How to reach me - send an email gilad.battat@gmail.com or send a message in <a href="http://www.linkedin.com/in/giladbattat">Linkedin</a>.
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div>
 <h2><b><i>Projects</b></i></h2>
 
@@ -81,7 +83,7 @@ Basic tags, styles and JS operations - currently learning in self-pace.
 <h3><b><i><a href= "http://www.codewars.com/users/giladbattat">CodeWars</a> - more than 110 coding challenges solved.</b></i></h3>
 <h3><b><i><a href= "https://www.kaggle.com/giladbattat">Kaggle</a></b></i></h3>
 <h3><b><i><a href="http://www.linkedin.com/in/giladbattat">Linkedin</a></b></i></h3>
-<i style="font-size:24px" class="fa">&#xf08c;</i>
+<i class="fa fa-linkedin-square" style="font-size:24px"></i>
 
 <!---
 slash827/slash827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
