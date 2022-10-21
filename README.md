@@ -63,7 +63,7 @@ Basic tags, Styles and JavaScript operations - currently learning in self-pace.
 <h4>Relevant Courses that I took</h4>
 <ul>
   <li>Data Structures and Algorithms</li>
-  <li>Database Managment Systems - with PostgreSQL</li>
+  <li>Database Management Systems - with PostgreSQL</li>
   <li>Computational Biology</li>
   <li>Intro to Artificial Intelligence</li>
   <li>Seminar in Cybersecurity with Machine Learning</li>
