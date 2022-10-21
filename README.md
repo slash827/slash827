@@ -88,7 +88,7 @@ Basic tags, styles and JS operations - currently learning in self-pace.
 </a> - more than 85 coding challenges solved.</b></i></h3>
 
 <h3><b><i><a href="https://www.linkedin.com/in/giladbattat" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://cdn.icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png" alt="linkedin"> LinkedIn
 </a></b></i></h3>
 
 <!---
