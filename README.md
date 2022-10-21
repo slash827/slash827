@@ -80,6 +80,7 @@ Basic tags, styles and JS operations - currently learning in self-pace.
 <h3><b><i><a href= "http://www.codewars.com/users/giladbattat">CodeWars</a> - more than 110 coding challenges solved.</b></i></h3>
 <h3><b><i><a href= "https://www.kaggle.com/giladbattat">Kaggle</a></b></i></h3>
 <h3><b><i><a href="http://www.linkedin.com/in/giladbattat">Linkedin</a></b></i></h3>
+<i style="font-size:24px" class="fa">&#xf08c;</i>
 
 <!---
 slash827/slash827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
