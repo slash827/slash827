@@ -67,7 +67,7 @@ Basic tags, Styles and JavaScript operations - currently learning in self-pace.
   <li>Computational Biology</li>
   <li>Intro to Artificial Intelligence</li>
   <li>Seminar in Cybersecurity with Machine Learning</li>
-  <li>Defensive Programming</li>
+  <li>Defensive System Programming</li>
 </ul>
 
 <h3><b><i>Master Degree</b></i></h3>
