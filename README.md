@@ -79,6 +79,7 @@ Basic tags, Styles and JavaScript operations - currently learning in self-pace.
   <li>Machine Learning</li>
   <li>Tabular Data Science</li>
   <li>Data Science Workshop</li>
+  <li>Deep Learning</li>
 </ul>
 
 <h2><b><i>Additional Websites</b></i></h2>
