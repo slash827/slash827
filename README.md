@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-- 👋 Hi, my name is Gilad Battat and I'm a M.Sc student in CS and a software developer intern.
+- 👋 Hi, my name is Gilad Battat and I'm a M.Sc student in CS and an Android Software Developer.
 - 👀 I’m interested in Software Development and Machine Learning.
-- 🌱 I’m currently learning Backend Development with Django in Python and HTML, CSS and JS.
-- 💞️ I’m looking to collaborate on Django projects or data oriented projects with Python.
+- 🌱 I’m currently learning Android Development with Java, Backend with Django and Data Science.
+- 💞️ I’m looking to collaborate on Android projects, Django projects or data oriented projects with Python.
 - 📫 How to reach me - send an <a href="gilad.battat@gmail.com">Email</a> or send a message in <a href="https://www.linkedin.com/in/giladbattat">LinkedIn</a>.
 
 <div>
