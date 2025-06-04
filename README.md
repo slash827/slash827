@@ -80,6 +80,10 @@ Basic tags, Styles and JavaScript operations - currently learning in self-pace.
   <li>Tabular Data Science</li>
   <li>Data Science Workshop</li>
   <li>Deep Learning</li>
+  <li>Unsupervised Learning</li>
+  <li>Bio-intelligent Algorithms</li>
+  <li>Advanced AI</li>
+  <li>Reinforcement Learning</li>
 </ul>
 
 <h2><b><i>Additional Websites</b></i></h2>
