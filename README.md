@@ -82,8 +82,10 @@ Basic tags, Styles and JavaScript operations - currently learning in self-pace.
   <li>Deep Learning</li>
   <li>Unsupervised Learning</li>
   <li>Bio-intelligent Algorithms</li>
-  <li>Advanced AI</li>
+  <li>Advanced AI topics</li>
   <li>Reinforcement Learning</li>
+  <li>Deep Learning in Computational Biology</li>
+  <li>Deep Learning techniques in Texts and Sequences</li>
 </ul>
 
 <h2><b><i>Additional Websites</b></i></h2>
