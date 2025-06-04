@@ -90,11 +90,11 @@ Basic tags, Styles and JavaScript operations - currently learning in self-pace.
 
 <h3><b><i><a href="https://leetcode.com/slash827/" rel="nofollow noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2389/PNG/32/leetcode_logo_icon_145113.png" alt="leetcode"> LeetCode
-</a> - more than 150 coding challenges solved.</b></i></h3>
+</a> - 150+ coding challenges solved.</b></i></h3>
 
 <h3><b><i><a href="http://www.codewars.com/users/giladbattat" rel="nofollow noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2622/PNG/32/brand_codewars_icon_158954.png" alt="CodeWars"> CodeWars
-</a> - more than 110 coding challenges solved.</b></i></h3>
+</a> - 110+ coding challenges solved.</b></i></h3>
 
 <h3><b><i><a href="https://www.kaggle.com/giladbattat" rel="nofollow noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/32/kaggle_logo_icon_168473.png" alt="Kaggle"> Kaggle
