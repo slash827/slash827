@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-- 👋 Hi, my name is Gilad Battat and I'm a M.Sc student in CS and works as an Android Software Developer at <a href="https://www.applovin.com/">Applovin</a>.
+- 👋 Hi, my name is Gilad Battat and I'm a M.Sc student in CS and works as a Software Engineer at <a href="https://www.applovin.com/">Applovin</a>.
 - 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning Android Development with Java, Backend with Django and Data Science.
 - 💞️ I’m looking to collaborate on Android projects, Django projects or data oriented projects with Python.
