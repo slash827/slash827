@@ -54,7 +54,7 @@ Basic tags, Styles and JavaScript operations - currently learning in self-pace.
 <ul>
   <li><b><a href="https://github.com/slash827/slash827/blob/main/certificates/Automate%20the%20Boring%20Stuff%20with%20Python%20Programming.pdf">Automate the Boring Stuff with Python Programming</a></b> </br>
 </li>
-  <li><b><a href="https://drive.google.com/file/d/1-tRrPlZmRR6QoDLvQbFvZoEYZkmhsco4/view?usp=sharing">Practical Machine Learning by Example in Python</a></b> </br>
+  <li><b><a href="https://github.com/slash827/slash827/blob/main/certificates/Practical%20Machine%20Learning%20by%20Example%20in%20Python%20certificate.pdf">Practical Machine Learning by Example in Python</a></b> </br>
 </li>
 </ul>
 
