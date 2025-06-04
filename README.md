@@ -43,7 +43,7 @@ Basic tags, Styles and JavaScript operations - currently learning in self-pace.
 
 <h2><b><i>Certifications</b></i></h2>
 
-<h3><b><i>freeCodeCamp</b></i></h3> </br>
+<h3><b><i>FreeCodeCamp</b></i></h3> </br>
 <ul>
   <li><b><a href="https://www.freecodecamp.org/certification/fcccda59c64/scientific-computing-with-python-v7">Scientific Computing with Python</a></b> </br></li>  
   <li><b><a href="https://www.freecodecamp.org/certification/fcccda59c64/data-analysis-with-python-v7">Data Analysis with Python</a></b> </br></li>  
