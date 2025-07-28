@@ -21,13 +21,13 @@ The <b>server side</b> is written in <b>Python</b> and uses socket for network c
   <b>Using genetic algorithms to explore the game of life.</b> </br> 
 <p>This project was built with python and implements a genetic algorithm that finds patterns in the game of life that are called methuselahs. This project was a final project in a course about Computational Biology.</p>
 
-<h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a></b></i></h3>
-  <b>Extension to MetaOD software -  an Outlier Detection automation tool.</b> </br>
-<p>Anomaly Detection automation tool, used to help with the model-selection problem in case of Anomaly detection Machine Learning models, and automating the process.</p> 
-
 <h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a></b></i></h3>
   <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
 <p>The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.</p>
+
+<h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a></b></i></h3>
+  <b>Extension to MetaOD software -  an Outlier Detection automation tool.</b> </br>
+<p>Anomaly Detection automation tool, used to help with the model-selection problem in case of Anomaly detection Machine Learning models, and automating the process.</p> 
 </div>
 
 <h2><b><i>Technology Stack</b></i></h2>
