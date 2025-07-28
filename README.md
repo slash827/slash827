@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-- 👋 Hi, my name is Gilad Battat and I'm an M.Sc student in CS in the last semester, I worked as a Software Engineer at <a href="https://www.applovin.com/">Applovin</a> until June 2025.
+- 👋 Hi, my name is Gilad Battat and I'm an M.Sc student in CS in the last semester.
+-    I worked as a Software Engineer at <a href="https://www.applovin.com/">Applovin</a> for 2.5 years until June 2025.
 - 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning Android Development with Java, Backend with Django and Data Science.
 - 💞️ I’m looking to collaborate on Android projects, Django projects or data oriented projects with Python.
@@ -31,8 +32,8 @@ The <b>server side</b> is written in <b>Python</b> and uses socket for network c
 
 <h2><b><i>Technology Stack</b></i></h2>
 <h3><b><i>Python</b></i></h3>
-Advanced Python including OOP, Meta Programming, Network and Socket programming and Excepion Handelling. </br>
-Libraries like: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, Django.
+Advanced Python including OOP, Network and Socket programming, Excepion Handelling and Thread management. </br>
+Libraries like: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, PyTorch, Django.
 <h3><b><i>Java</b></i></h3>
 OOP, Java Collections and Generic types, Threads and Excepion Handelling. </br>
 Android Development Basics.
