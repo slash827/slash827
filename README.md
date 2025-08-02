@@ -16,13 +16,6 @@
 A client software that sends encrypted messages between clients on different computers using a model of client-server. </br> 
 The <b>client side</b> is written in <b>C++</b> and has a Command line interface. </br> 
 The <b>server side</b> is written in <b>Python</b> and uses socket for network communication. </br> 
-
-<h3><b><i><a href="https://github.com/slash827/ATM‑System">ATM‑System</a></b></i></h3>
-  <b>ATM‑System (Python/FastAPI) – Built a secure ATM REST API with FastAPI and Pydantic v2. </b> </br> 
-    The project is a client-server application that supports core banking operations (balance inquiries, deposits, withdrawals and transaction history). </br> 
-    The service uses Decimal types for financial precision, applies strict input validation and <b>XSS‑prevention middleware</b>, and exposes interactive OpenAPI documentation. </br> 
-    It is accompanied by a comprehensive pytest suite (43 tests) and a hardened <b>multi‑stage Docker deployment for production readiness</b>.</br> 
-</br>
   
 <h3><b><i><a href="https://github.com/slash827/Computational-Biology/tree/main/Genetic-Algorithm-The-Game-Of-Life">Genetic Algorithm With The Game Of Life</a></b></i></h3>
   <b>Using genetic algorithms to explore the game of life.</b> </br> 
