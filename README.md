@@ -25,6 +25,13 @@ The <b>server side</b> is written in <b>Python</b> and uses socket for network c
   <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
 <p>The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.</p>
 
+<h3><b><i><a href="https://github.com/slash827/ATM‑System">ATM‑System</a></b></i></h3>
+  <b>ATM‑System (Python/FastAPI) – Built a secure ATM REST API with FastAPI and Pydantic v2. </b> </br> 
+    The project is a client-server application that supports core banking operations (balance inquiries, deposits, withdrawals and transaction history). </br> 
+    The service uses Decimal types for financial precision, applies strict input validation and <b>XSS‑prevention middleware</b>, and exposes interactive OpenAPI documentation. </br> 
+    It is accompanied by a comprehensive pytest suite (43 tests) and a hardened <b>multi‑stage Docker deployment for production readiness</b>.</br> 
+</br>
+
 <h3><b><i><a href="https://github.com/slash827/Automating-Anomaly-Detection">Automating Anomaly Detection</a></b></i></h3>
   <b>Extension to MetaOD software -  an Outlier Detection automation tool.</b> </br>
 <p>Anomaly Detection automation tool, used to help with the model-selection problem in case of Anomaly detection Machine Learning models, and automating the process.</p> 
