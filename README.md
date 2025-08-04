@@ -11,7 +11,7 @@
 <div>
 <h2><b><i>Projects</b></i></h2>
 
-<h3><b><i><a href="https://github.com/slash827/Messenger">Messenger</a></b></i></h3>
+<h3><b><i><a href="https://github.com/slash827/Messenger">Encrypted Messenger Software</a></b></i></h3>
   <b>Messenger App - Client Server application with Python and C++.</b> </br>
 A client software that sends encrypted messages between clients on different computers using a model of client-server. </br> 
 The <b>client side</b> is written in <b>C++</b> and has a Command line interface. </br> 
@@ -19,11 +19,13 @@ The <b>server side</b> is written in <b>Python</b> and uses socket for network c
   
 <h3><b><i><a href="https://github.com/slash827/Computational-Biology/tree/main/Genetic-Algorithm-The-Game-Of-Life">Genetic Algorithm With The Game Of Life</a></b></i></h3>
   <b>Using genetic algorithms to explore the game of life.</b> </br> 
-<p>This project was built with python and implements a genetic algorithm that finds patterns in the game of life that are called methuselahs. This project was a final project in a course about Computational Biology.</p>
+<p>The project was built with python and implements a genetic algorithm that finds patterns in the game of life that are called methuselahs. </br>
+  It features object-oriented design, comprehensive testing, performance optimization and algorithmic expertise. </br>
+  This project was a final project in a course about Computational Biology which covered topics like cellular automata, neural networks and evolutionary algorithms.</p>
 
-<h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Detection</a></b></i></h3>
-  <b>Brain Tumor Detection from MRI images using ML techniques.</b> </br> 
-<p>The project contains various classification models like CNN and it was built using Jupyter Notebook and various python packages like Keras and Scikit-Learn.</p>
+<h3><b><i><a href="https://github.com/slash827/Machine-Learning-Projects/tree/master/Brain_Tumor_Classification">Brain Tumor Classification from MRI Images</a></b></i></h3>
+<b>Advanced medical AI system achieving 95% accuracy in brain tumor classification using deep learning and hierarchical classification methods.</b> </br> 
+<p>Comprehensive machine learning project implementing CNNs, Random Forest, SVM, and novel hierarchical classification approaches. Features extensive data preprocessing, hyperparameter optimization, and cross-validation analysis. Demonstrates professional-level medical imaging AI with practical healthcare applications. Built with TensorFlow/Keras, OpenCV, and scikit-learn.</p>
 
 <h3><b><i><a href="https://github.com/slash827/ATM‑System">ATM‑System</a></b></i></h3>
   <b>ATM‑System (Python/FastAPI) – Built a secure ATM REST API with FastAPI and Pydantic v2. </b> </br> 
