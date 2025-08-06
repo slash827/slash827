@@ -27,8 +27,8 @@ The <b>server side</b> is written in <b>Python</b> and uses socket for network c
 <b>Advanced medical AI system achieving 95% accuracy in brain tumor classification using deep learning and hierarchical classification methods.</b> </br> 
 <p>Comprehensive machine learning project implementing CNNs, Random Forest, SVM, and novel hierarchical classification approaches. Features extensive data preprocessing, hyperparameter optimization, and cross-validation analysis. Demonstrates professional-level medical imaging AI with practical healthcare applications. Built with TensorFlow/Keras, OpenCV, and scikit-learn.</p>
 
-<h3><b><i><a href="https://github.com/slash827/ATM‑System">ATM‑System</a></b></i></h3>
-  <b>ATM‑System (Python/FastAPI) – Built a secure ATM REST API with FastAPI and Pydantic v2. </b> </br> 
+<h3><b><i><a href="https://github.com/slash827/ATM‑System">Bank System</a></b></i></h3>
+  <b>Bank System (Python/FastAPI) – Built a secure Bank application including REST API with FastAPI and Pydantic v2. </b> </br> 
     The project is a client-server application that supports core banking operations (balance inquiries, deposits, withdrawals and transaction history). </br> 
     The service uses Decimal types for financial precision, applies strict input validation and <b>XSS‑prevention middleware</b>, and exposes interactive OpenAPI documentation. </br> 
     It is accompanied by a comprehensive pytest suite (43 tests) and a hardened <b>multi‑stage Docker deployment for production readiness</b>.</br> 
